@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TaxiDriver</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="navigation_map_text">Map</string>
+    <string name="navigation_incoming_requests_text">Pending Requests</string>
+    <string name="navigation_finished_requests_text">Accepted Requests</string>
+</resources>
